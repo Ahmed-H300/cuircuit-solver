@@ -1,0 +1,7 @@
+w 1000
+vsrc v1 1 0 10 30
+res r1 1 2 20
+cap c1 2 3 0.00005
+isrc i2 3 0 4 30
+res r3 1 3 20
+res r5 2 0 20
